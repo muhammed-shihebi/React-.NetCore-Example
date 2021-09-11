@@ -1,0 +1,11 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [Id]
+      ,[CompanyETSCode]
+      ,[PlantEIC]
+      ,[DataType]
+      ,[Hour]
+      ,[EntityTypeId]
+      ,[Value]
+      ,[Date]
+	  ,[DataSource]
+  FROM [UsersDB].[dbo].[CentralDatas]

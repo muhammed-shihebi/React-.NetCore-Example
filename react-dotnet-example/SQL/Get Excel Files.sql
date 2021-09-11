@@ -1,0 +1,12 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [Id]
+      ,[File]
+      ,[FileName]
+      ,[SantralETSO]
+      ,[OrgaETSO]
+      ,[DataType]
+      ,[Date]
+      ,[Error]
+      ,[Message]
+      ,[State]
+  FROM [UsersDB].[dbo].[ExcelFiles]
