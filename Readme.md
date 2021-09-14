@@ -1,4 +1,4 @@
-In this Project I learned how to develop a web application using React in the frontend and .Net Core in the backend. 
+In this project I learned how to develop a web application using React in the frontend and .Net Core in the backend. 
 
 Various packages and libraries were used to implemente this application like:
 
@@ -14,7 +14,7 @@ Various packages and libraries were used to implemente this application like:
 	- SQL Server with SQL Server Management Studio
 
 
-In the images below, I tried to show you how the application would look if you run the it on your own machine.
+The pictures below try to show you how the application would look like if you run it on your machine. 
 
 # .Net Core API
 
