@@ -39,7 +39,8 @@ namespace react_dotnet_example.Controllers
         {
             HttpClient client = new HttpClient();
             string uri = "https://seffaflik.epias.com.tr/transparency/service/production/dpp?organizationEIC="
-                + dppParams.ETSCode + "&uevcbEIC=" + dppParams.EIC + "&startDate=" + dppParams.stardDate + "&endDate=" + dppParams.endDate;
+                + dppParams.ETSCode + "&uevcbEIC=" + dppParams.EIC 
+				+ "&startDate=" + dppParams.stardDate + "&endDate=" + dppParams.endDate;
             string response = await client.GetStringAsync(uri);
 
             return response;

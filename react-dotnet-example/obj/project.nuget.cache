@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4yuYNEl9V9BmKvpow8Wk+lNUQEnANfRi6VFKnltyFpmcfRIdo0oovOuHLzovC2LdUE6W5ChmLXAnizjOZiaAjg==",
+  "dgSpecHash": "XsTAcCvRVjwKMgriOaPIht9pZNxgCQQmsIXqx89eaVrlEND1dBn+Q2jZ5tCntar6OmsbJnFoWON96h/KQ3MUHA==",
   "success": true,
-  "projectFilePath": "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\react-dotnet-example\\react-dotnet-example.csproj",
+  "projectFilePath": "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\FirstProject\\react-dotnet-example\\react-dotnet-example.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nour\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Nour\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

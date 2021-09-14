@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\react-dotnet-example\\react-dotnet-example.csproj": {}
+    "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\FirstProject\\react-dotnet-example\\react-dotnet-example.csproj": {}
   },
   "projects": {
-    "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\react-dotnet-example\\react-dotnet-example.csproj": {
+    "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\FirstProject\\react-dotnet-example\\react-dotnet-example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\react-dotnet-example\\react-dotnet-example.csproj",
+        "projectUniqueName": "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\FirstProject\\react-dotnet-example\\react-dotnet-example.csproj",
         "projectName": "react-dotnet-example",
-        "projectPath": "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\react-dotnet-example\\react-dotnet-example.csproj",
+        "projectPath": "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\FirstProject\\react-dotnet-example\\react-dotnet-example.csproj",
         "packagesPath": "C:\\Users\\Nour\\.nuget\\packages\\",
-        "outputPath": "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\react-dotnet-example\\obj\\",
+        "outputPath": "F:\\Informatik\\University - TDU\\Semester 07\\Staj\\smartPulse\\Projects\\FirstProject\\react-dotnet-example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nour\\AppData\\Roaming\\NuGet\\NuGet.Config",
