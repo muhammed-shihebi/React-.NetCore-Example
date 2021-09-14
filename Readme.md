@@ -1,6 +1,10 @@
 In this project I learned how to develop a web application using React in the frontend and .Net Core in the backend. 
 
-Various packages and libraries were used to implemente this application like:
+# Description 
+
+The project is basically a web application where users could register/sign in themselves, in addition to their ability to edit their profile and change their email and password. Furthermore, in this project I demonstrated how to fetch data from a public API related to power plants and organize it in grids and give the user the ability to edit this data and save the edit version in a database. Users are also able to upload data themselves in the form of Excel files. These files are then processed using a console application that should work in the background as a Windows task. The data from successfully processed files is also added to the database, and users are able to access data from both the API and the database.
+
+Various packages and libraries were used to Implement this application like:
 
 1. .Net Core API and Console application
 	- Entity Framework Core 
@@ -51,6 +55,8 @@ The pictures below try to show you how the application would look like if you ru
 <img src="Pictures\React\HomePage\MaterialUIGrid2.png" width=800> 
 
 
+
+
 ## OrderPage 
 
 ### OrderPage 
@@ -63,3 +69,18 @@ The pictures below try to show you how the application would look like if you ru
 
 ## Profile Page 
 <img src="Pictures\React\ProfilePage\ProfilePage.png" width=800> 
+
+
+# Console App 
+
+## Console App Example Log 
+<img src="Pictures\ConsoleApp\ConsoleAppLog1.png" width=800> 
+
+## Console App Example Log 2
+<img src="Pictures\ConsoleApp\ConsoleAppLog2.png" width=800> 
+
+## Setting up a Windows Task
+<img src="Pictures\ConsoleApp\SetUpWindowsTask.png" width=800> 
+
+## The automatically created Excel File 
+<img src="Pictures\ConsoleApp\CreatedExcelFile.png" width=800> 
