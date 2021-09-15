@@ -1,4 +1,4 @@
-In this project I learned how to develop a web application using React in the frontend and .Net Core in the backend. 
+I did this project during my internship in SmartPulse company. Mainly, I developed this project to learn how to develop a web application using React in the frontend and .Net Core in the backend. 
 
 # Description 
 
@@ -22,10 +22,14 @@ The pictures below try to show you how the application would look like if you ru
 
 # .Net Core API
 
+The API gives the user the ability to access data and manipulate it. 
+
 ## Folder Structure 
 <img src="Pictures\dotNetCore\FolderStructure.png" width=300> 
 
 # React 
+
+This is the client application where the the frontend is implemented and the user can access the functionality offered by the application. 
 
 ## Folder Structure  
 <img src="Pictures\React\FolderStructure.png" width=300> 
@@ -72,6 +76,8 @@ The pictures below try to show you how the application would look like if you ru
 
 
 # Console App 
+
+This application will work in the background as a windows task to process newly added Excel files and check if the time of any order has come to execute it. 
 
 ## Console App Example Log 
 <img src="Pictures\ConsoleApp\ConsoleAppLog1.png" width=800> 
