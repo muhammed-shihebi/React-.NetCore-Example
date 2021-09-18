@@ -1,4 +1,4 @@
-I did this project during my internship in SmartPulse company. Mainly, I developed this project to learn how to develop a web application using React in the frontend and .Net Core in the backend. 
+I did this project during my internship at SmartPulse company. Mainly, I developed this project to learn how to develop a web application using React in the frontend and .Net Core in the backend. 
 
 # Description 
 
